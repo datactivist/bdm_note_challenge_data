@@ -223,7 +223,7 @@ Dans le cadre du Challenge, les points d’eau potable de la ville de Mérignac 
 
  
 
-&lt;iframe frameborder="0" width="800" height="600" src="[https://opendata.bordeaux-metropole.fr/map/embed/points_deau_merignac/?&static=false&scrollWheelZoom=false](https://opendata.bordeaux-metropole.fr/map/embed/points_deau_merignac/?&static=false&scrollWheelZoom=false)">&lt;/iframe>
+<iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/points_deau_merignac/?&static=false&scrollWheelZoom=false"></iframe>
 
 Le lien : [https://opendata.bordeaux-metropole.fr/map/points_deau_potable_merignac/](https://opendata.bordeaux-metropole.fr/map/points_deau_potable_merignac/)
 
@@ -233,7 +233,8 @@ Nous avons ajouté les contours des quartiers pour se retrouver plus facilement.
 
 Si l’on recherche sur le portail, on remarque que deux autres villes ont publié leurs points d’eau potable, il semble donc intéressant de les ajouter à la datavisualisation.
 
-&lt;iframe frameborder="0" width="800" height="600" src="[https://opendata.bordeaux-metropole.fr/map/embed/points_deau_merignac/?&static=false&scrollWheelZoom=false](https://opendata.bordeaux-metropole.fr/map/embed/points_deau_merignac/?&static=false&scrollWheelZoom=false)">&lt;/iframe>
+<iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/points_deau_merignac/?&static=false&scrollWheelZoom=false"></iframe>
+
 
 Le lien : [https://opendata.bordeaux-metropole.fr/map/points_deau_merignac/](https://opendata.bordeaux-metropole.fr/map/points_deau_merignac/) 
 
@@ -249,7 +250,7 @@ Certaines collectivités ont recensé les points d’eau potable mais aussi tous
 
 La ville du Haillan a publié les effectifs scolaires depuis l’année scolaire 1994/1995. Cela permet de visualiser l’évolution des effectifs de cette date à aujourd’hui. Nous avons comparé cette évolution à celle du nombre de classes.
 
-&lt;iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/leh_effectifs_scolaires/analyze/?disjunctive.annee_scolaire&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoibm9tYnJlX3RvdGFsX2RfZWxldmVzIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzY2YzJhNSJ9LHsiYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJub21icmVfZGVfY2xhc3NlIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI2ZjOGQ2MiJ9XSwieEF4aXMiOiJhbm5lZV9zY29sYWlyZSIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJjb25maWciOnsiZGF0YXNldCI6ImxlaF9lZmZlY3RpZnNfc2NvbGFpcmVzIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5hbm5lZV9zY29sYWlyZSI6dHJ1ZX19fV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&static=false&datasetcard=false" width="800" height="600" frameborder="0">&lt;/iframe>
+<iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/leh_effectifs_scolaires/analyze/?disjunctive.annee_scolaire&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoibm9tYnJlX3RvdGFsX2RfZWxldmVzIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzY2YzJhNSJ9LHsiYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJub21icmVfZGVfY2xhc3NlIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI2ZjOGQ2MiJ9XSwieEF4aXMiOiJhbm5lZV9zY29sYWlyZSIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJjb25maWciOnsiZGF0YXNldCI6ImxlaF9lZmZlY3RpZnNfc2NvbGFpcmVzIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5hbm5lZV9zY29sYWlyZSI6dHJ1ZX19fV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 On remarque facilement que le nombre d’élèves commence à diminuer pour un nombre de classe stable. Si la collectivité se posait la question de l’intérêt de construire ou non un nouveau groupe scolaire, ces éléments peuvent contribuer à la réponse.
 
