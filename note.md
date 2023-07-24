@@ -257,7 +257,7 @@ La ville de Mérignac a aussi publié les effectifs scolaires. On remarque que l
 
 D’autre part, à partir de ces jeux de données, il est possible de réaliser une carte pour situer les écoles et ceci pour les deux jeux publiés. Cela pourra être intéressant à l’avenir de publier la sectorisation scolaire pour visualiser en un coup d'œil l’école dont on dépend.
 
-&lt;iframe frameborder="0" width="800" height="600" src="[https://opendata.bordeaux-metropole.fr/map/embed/carte_ecole_la_haillan_merignac/?&static=false&scrollWheelZoom=false](https://opendata.bordeaux-metropole.fr/map/embed/carte_ecole_la_haillan_merignac/?&static=false&scrollWheelZoom=false)">&lt;/iframe>
+<iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/carte_ecole_la_haillan_merignac/?&static=false&scrollWheelZoom=false"></iframe>
 
 Lien : https://opendata.bordeaux-metropole.fr/map/carte_ecole_la_haillan_merignac/
 
