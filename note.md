@@ -223,7 +223,7 @@ Dans le cadre du Challenge, les points d’eau potable de la ville de Mérignac 
 
  
 
-<iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/points_deau_merignac/?&static=false&scrollWheelZoom=false"></iframe>
+<iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/points_deau_potable_merignac/?&static=false&scrollWheelZoom=false"></iframe>
 
 Le lien : [https://opendata.bordeaux-metropole.fr/map/points_deau_potable_merignac/](https://opendata.bordeaux-metropole.fr/map/points_deau_potable_merignac/)
 
