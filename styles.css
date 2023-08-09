@@ -1,38 +1,16 @@
 h1.title { /*titre général du document*/
   color: #e73458; /*couleur titre*/
-  font-size: 3.8em; /*taille*/
+  font-size: 3em; /*taille*/
   font-family: "Nexa Bold"; /*police*/
   font-weight: bold; /*gras*/
   border-top: 0px; /*pas de ligne horizontale avant*/
-  padding-left: 0px; /*tout à gauche, pas d'alinéa*/
-  padding-top: 60px; /*espace avant titre*/
+  padding-left: 100px; /*tout à gauche, pas d'alinéa*/
+  padding-top: 230px; /*espace avant titre*/
   margin-top: 30px; /*marge à 0*/
-}
-h3.subtitle{ /*sous-titre*/
-  color: #666666; /*couleur titre*/
-  font-size: 2.5em; /*taille*/
-  font-family: "Nexa Bold"; /*police*/
-  font-weight: bold; /*gras*/
-  padding-left: 0px; /*tout à gauche, pas d'alinéa*/
-  padding-top: 0px; /*espace avant titre*/
-}
-h4.author { /*auteur*/
-  color: #e73458; /*couleur*/
-  padding: 1px; /*espace autour texte*/
-  font-size: 1.5em; /*taille*/
-  font-family: "Arial"; /*police*/
-  font-weight: normal; /*pas en gras*/
-}
-h4.date { /*date*/
-  color: #e73458; /*couleur*/
-  padding: 1px; /*espace autour texte*/
-  padding-bottom: 10px;
-  font-size: 1.5em; /*taille*/
-  font-family: "Arial"; /*police*/
-  font-weight: normal; /*pas en gras*/
+  margin-bottom: 50px; /*marge à 0*/
 }
 h1 { /*titre de niveau #1*/
-  color: #E95459; /*couleur titre*/
+  color: #e73458; /*couleur titre*/
   font-size: 3em; /*taille*/
   font-family: "Nexa Bold"; /*police*/
   font-weight: bold; /*gras*/
@@ -43,32 +21,34 @@ h1 { /*titre de niveau #1*/
   margin-top: 50px; /*espace avant ligne horizontale*/
 }
 h2 { /*titre de niveau #2*/
-  color: #E95459; /*couleur titre*/
+  color: #e73458; /*couleur titre*/
   font-size: 2.5em; /*taille*/
-  font-family: "Arial"; /*police*/
+  font-family: "Nexa Bold"; /*police*/
   font-weight: bold; /*gras*/
-  padding: 35px; /*alinéa*/
+  padding: 0px; /*alinéa*/
+  padding-top: 30px; /*espace avant titre*/
 }
 h3 { /*titre de niveau #3*/
-  color: #E95459; /*couleur titre*/
+  color: #23ae84; /*couleur titre*/
   font-size: 2em; /*taille*/
-  font-family: "Arial"; /*police*/
+  font-family: "Nexa Light"; /*police*/
   font-weight: bold; /*gras*/
-  padding: 25px; /*alinéa*/
+  padding: 10px; /*alinéa*/
 }
 h4 { /*titre de niveau #4*/
-  color: #E95459; /*couleur titre*/
+  color: #e73458; /*couleur titre*/
   font-size: 1.5em; /*taille*/
-  font-family: "Arial"; /*police*/
+  font-family: "Nexa Light"; /*police*/
   font-weight: bold; /*gras*/
-  padding: 15px; /*alinéa*/
+  padding: 10px; /*alinéa*/
+  padding-left: 50px; /*alinéa*/
 }
 h5 { /*titre de niveau #5*/
-  color: #E95459; /*couleur titre*/
+  color: #e73458; /*couleur titre*/
   font-size: 1em; /*taille*/
-  font-family: "Arial"; /*police*/
+  font-family: "Nexa Light"; /*police*/
   font-weight: bold; /*gras*/
-  padding: 5px; /*alinéa*/
+  padding: 0px; /*alinéa*/
 }
 body { /*corps de texte*/
   text-align: justify; /*texte justifié*/
