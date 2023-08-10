@@ -31,14 +31,14 @@ h2 { /*titre de niveau #2*/
 h3 { /*titre de niveau #3*/
   color: #23ae84; /*couleur titre*/
   font-size: 2em; /*taille*/
-  font-family: "Nexa Light"; /*police*/
+  font-family: "Nexa Bold"; /*police*/
   font-weight: bold; /*gras*/
   padding: 10px; /*alinéa*/
 }
 h4 { /*titre de niveau #4*/
   color: #e73458; /*couleur titre*/
   font-size: 1.5em; /*taille*/
-  font-family: "Nexa Light"; /*police*/
+  font-family: "Nexa Bold"; /*police*/
   font-weight: bold; /*gras*/
   padding: 10px; /*alinéa*/
   padding-left: 50px; /*alinéa*/
@@ -46,7 +46,7 @@ h4 { /*titre de niveau #4*/
 h5 { /*titre de niveau #5*/
   color: #e73458; /*couleur titre*/
   font-size: 1em; /*taille*/
-  font-family: "Nexa Light"; /*police*/
+  font-family: "Nexa Bold"; /*police*/
   font-weight: bold; /*gras*/
   padding: 0px; /*alinéa*/
 }
