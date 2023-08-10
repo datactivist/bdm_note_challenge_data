@@ -21,12 +21,14 @@ output:
   color: white;
   background-color: #23ae84;
   font-weight: bold; /*gras*/
-  padding: 10px; /*espace avant*/
+  padding: 8px; /*espace avant*/
   /*margin-top: 1px; /*espace avant*/
 }
 #TOC {
   max-width: fit-content;
   white-space: nowrap;
+  font-size: 1.3em; /*taille*/
+  margin-left: -6%;
 }
 .sidenote, .marginnote { 
   float: left;
@@ -43,12 +45,17 @@ output:
   }
 ```
 
-```{r logo, echo = FALSE}
+```{r logo et police, echo = FALSE, message = FALSE, warning=FALSE, error=FALSE}
 # Logo BDM haut de page
 htmltools::img(src = "https://nextcloud.datactivist.coop/s/kWMDDLHBXHXXgSE/preview", 
                alt = 'logo', 
                style = 'position:absolute; top:0; left:0; right:0;')
 
+# Polices Nexa et Trade Gothic
+library(showtext)
+font_add("Nexa", regular = "Nexa Bold.otf")
+font_add("Trade Gothic", regular = "Trade Gothic.otf")
+showtext_auto()
 ```
 
 
