@@ -68,7 +68,7 @@ showtext_auto()
 
 Guillaume
 
-Résumé introductif ultra rapide qui donne envie de lire la suite
+Résumé introductif ultra rapide qui donne envie de lire la suite. test
 
 
 
@@ -136,7 +136,7 @@ Visuel ODC étape Identification
 Wishlist // Checklist // Wanted data list
 
 
-### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Étape 2 : Mise en qualité
+### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Étape 2 : Mise en qualité 
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Principe
