@@ -73,6 +73,7 @@ La mise à disposition de la plateforme s’accompagne d’une offre de service 
 En janvier 2023, l’atelier open data compte plus de 360 jeux de données accessibles et a permis la création d’une dizaine d’applications et de services par l’administration ou des tiers réutilisateurs.
 
 <div class="sidenote">![](https://nextcloud.datactivist.coop/s/7Y4mMTPWpKDGmaR/preview){width=200px}</div>
+
 ## Constat
 
 Bien que pouvant être considéré, à juste titre, comme une réussite et une des dynamiques exemplaires d’open data territoriales en France, l’atelier open data Bordelais souffre d’un mal trop bien connu des collectivités territoriales en charge d’une politique de données ouvertes sur un territoire. La production et l’ouverture de données ne repose que sur un nombre limités de producteurs. 
@@ -84,6 +85,7 @@ Conscient de cette faiblesse, la Métropole de Bordeaux a souhaité redynamiser 
 Sur les 14 communes, 5 communes ont accepté de relever le défi et d’être accompagnées par la DGNSI et Datactivist dans l’ouverture et la valorisation de leurs jeux de données : la ville de Bordeaux, Talence, Mérignac, Le Taillan-Médoc et le Haillan. 
 
 <div class="sidenote">![](https://nextcloud.datactivist.coop/s/7Y4mMTPWpKDGmaR/preview){width=200px}</div>
+
 ## Objectif
 
 D’une durée de 3 mois et composé de 5 ateliers (cf. méthode), le challenge data poursuit 3 principaux objectifs : 
@@ -111,9 +113,7 @@ Les résultats du Challenge sont très concrets : jeux de données publiés et d
 
 ## Méthode
 
-Le Challenge est composé par 5 ateliers introduits par un webinaire de présentation. Lors de chaque atelier, les animateurs présentent une partie théorique courte pour comprendre les principes de base de l’open data mais aussi et surtout une partie pratique durant laquelle les participants font eux-mêmes.  
-
-A voir si on ajoute pour chaque étape les livrables produits ??
+Le Challenge est composé par 5 ateliers introduits par un webinaire de présentation. Lors de chaque atelier, les animateurs présentent une partie théorique courte pour comprendre les principes de base de l’open data mais aussi et surtout une partie pratique durant laquelle les participants font eux-mêmes. 
 
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Étape 1 : Diagnostic et identification des données
