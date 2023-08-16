@@ -113,15 +113,33 @@ A partir d’un catalogue de données, les participants choisissent les données
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Ce qui a fonctionné / Ce qui a moins fonctionné
 
-<span style="text-decoration:underline;">Fonctionné</span>
+<div class="row">
+<div class="col-md-2">
+![](images/Fonctionne-plus.jpg){width=120%}
+</div>
+<div class="col-md-10">
+
+<br>
 
 Cet atelier permet de commencer en douceur. On compare des jeux de données, on se pose les premières questions de faisabilité. Les canevas permettent de rassurer et de rendre concret le travail à venir.
+</div>
+</div>
 
-<span style="text-decoration:underline;">Moins fonctionné</span>
+<br>
+
+<div class="row">
+<div class="col-md-2">
+![](images/Fonctionne-moins.jpg){width=120%}
+</div>
+<div class="col-md-10">
+
+<br>
 
 Une question a été posée proche de la fin de l’atelier pour savoir à quoi devait ressembler un jeu de données pour être publié. Nous avons montré les ressources de l’atelier suivant comprenant des schémas de données. La réponse a été instantanée : Ah, c’est juste ça !
-
 Nous aurions pu ajouter à la présentation un avant/après sur la mise en qualité d’un jeu de données pour montrer que cela est très accessible.
+</div>
+</div>
+
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Conseil d’animation
@@ -270,14 +288,45 @@ A t-on des photos des dessins ??? Moi non…
 
 ## Résultats
 
-A présenter sur 4 cases : 
+```{r include=FALSE}
+library(icons)
+library(tidyverse)
+# Table
+df <- data.frame(
+    x = c(2, 8.5, 15, 21.5),
+    y = rep(6.5, 4),
+    h = rep(4.25, 4),
+    w = rep(6.25, 4),
+    value = c(5, 7, 17, 5),
+    info = c("Communes",
+             "Participants",
+             "JDD ouverts",
+             "Réutilisations"),
+    color = factor(1:4)
+)
 
+# Graphique
+ggplot(df, aes(x, y, height = h, width = w, label = info)) +
+    ## Create the tiles using the `color` column
+    geom_tile(aes(fill = color)) +
+    ## Add the numeric values as text in `value` column
+    geom_text(color = "white", fontface = "bold", size = 16,
+              aes(label = ifelse(value > 999, format(as.integer(value, 0), nsmall = 1, big.mark = "."), value), 
+                  x = x - 2.9, y = y + 1), 
+              hjust = 0) +
+    ## Add the labels for each box stored in the `info` column
+    geom_text(color = "white", fontface = "bold", size = 10,
+              aes(label = info, x = x - 2.9, y = y - 1), hjust = 0) +
+    coord_fixed() +
+    #scale_fill_manual(type = "qual", palette = "Dark2") +
+    scale_fill_manual(values = c("#9bcea4", "#ef7875", "#ffcc00", "#23ae84", "#fecf5d", "#21468d")) +
+    ## Use `geom_text()` to add the icons by specifying the unicode symbol.
+    theme_void() +
+    guides(fill = FALSE)
+```
 
+![](images/Infographie_BDM.png)
 
-* 5 communes
-* 7 participants
-* 17 JDD ouverts
-* 5 réutilisations 
 
 Mettre un mot sur chaque dataviz + la dataviz en iframe (voir taille à privilégier) + lien vers l’Atelier Open Data
 
