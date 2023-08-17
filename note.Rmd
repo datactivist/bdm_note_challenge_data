@@ -430,9 +430,18 @@ Partie ouverture/conclusive des résultants : Ce qu’ont retenu les participant
 
 ## Et après
 
-Guillaume
+Outre l’ouverture et l’usage de nouveaux jeux de données présentés plus haut, ce challenge data a permis de construire une petite communauté de référents open data très motivés pour continuer à ouvrir des données au sein de leurs communes. Suite aux 5 sessions de travail, les participants repartent avec deux idées majeures : 
 
-Perspectives suite au challenge (Enseignements - Recommandations / Leviers d'actions)
+L’open data, ce n’est pas si compliqué !
+L’open data est utile pour leurs communes
+
+Cependant, la fin du challenge data ne doit pas être une fin en soi. Elle doit marquer le début d’une nouvelle politique d’animation des données territoriales, volontariste et tournée vers l’extérieur et notamment les communes. Les enjeux et questionnements sont multiples : 
+
+Quels sont les objectifs de cette nouvelle communauté ? 
+Comment et dans quel cadre Bordeaux Métropole doit-il poursuivre son animation ? 
+Comment développer cette communauté à d’autres communes du territoire métropolitain ? 
+Quels moyens et ressources doivent y être dédiés ?
+
 
 ::: {.tocify-extend-page data-unique="tocify-extend-page" style="height: 0;"}
 :::
