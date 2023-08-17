@@ -324,7 +324,7 @@ df <- data.frame(
     value = c(5, 7, 17, 5),
     info = c("Communes",
              "Participants",
-             "JDD ouverts",
+             "Jeux de données ouverts",
              "Réutilisations"),
     color = factor(1:4)
 )
@@ -336,7 +336,7 @@ ggplot(df, aes(x, y, height = h, width = w, label = info)) +
     ## Add the numeric values as text in `value` column
     geom_text(color = "white", fontface = "bold", size = 16,
               aes(label = ifelse(value > 999, format(as.integer(value, 0), nsmall = 1, big.mark = "."), value), 
-                  x = x - 2.9, y = y + 1), 
+                  x = x - 1.2, y = y + 0.5), 
               hjust = 0) +
     ## Add the labels for each box stored in the `info` column
     geom_text(color = "white", fontface = "bold", size = 10,
@@ -430,18 +430,9 @@ Partie ouverture/conclusive des résultants : Ce qu’ont retenu les participant
 
 ## Et après
 
-Outre l’ouverture et l’usage de nouveaux jeux de données présentés plus haut, ce challenge data a permis de construire une petite communauté de référents open data très motivés pour continuer à ouvrir des données au sein de leurs communes. Suite aux 5 sessions de travail, les participants repartent avec deux idées majeures : 
+Guillaume
 
-L’open data, ce n’est pas si compliqué !
-L’open data est utile pour leurs communes
-
-Cependant, la fin du challenge data ne doit pas être une fin en soi. Elle doit marquer le début d’une nouvelle politique d’animation des données territoriales, volontariste et tournée vers l’extérieur et notamment les communes. Les enjeux et questionnements sont multiples : 
-
-Quels sont les objectifs de cette nouvelle communauté ? 
-Comment et dans quel cadre Bordeaux Métropole doit-il poursuivre son animation ? 
-Comment développer cette communauté à d’autres communes du territoire métropolitain ? 
-Quels moyens et ressources doivent y être dédiés ?
-
+Perspectives suite au challenge (Enseignements - Recommandations / Leviers d'actions)
 
 ::: {.tocify-extend-page data-unique="tocify-extend-page" style="height: 0;"}
 :::
