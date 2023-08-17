@@ -28,7 +28,8 @@ output:
   max-width: fit-content;
   white-space: nowrap;
   font-size: 1.3em; /*taille*/
-  margin-left: -6%;
+  margin-left: -1%;
+  z-index: 2; /*met la TOC au premier plan devant marginnote*/
   font-family: "Nexa Bold"; /*police*/
 }
 .sidenote, .marginnote { 
@@ -90,21 +91,30 @@ Sur les 14 communes, 5 communes ont accepté de relever le défi et d’être ac
 
 D’une durée de 3 mois et composé de 5 ateliers (cf. méthode), le challenge data poursuit 3 principaux objectifs : 
 
+<font color='#e73458'>
 
+* Acculturer et former les référents open data des communes par la pratique
 
-* Acculturer et former les référents open data des communes par la pratique 
+</font>
 
 Le challenge data vise à transmettre les piliers d’une culture générale de la donnée par la pratique. Afin d’éviter les écueils d’une approche descendante et peu motivante, les participants manipulent les données de leurs collectivités tout au long du challenge. 
 
+<font color='#e73458'>
 
 
-* Relancer la dynamique d’ouverture au sein des communes pilotes 
+* Relancer la dynamique d’ouverture au sein des communes pilotes
+
+</font>
 
 Plus qu’une simple formation, le challenge data permet aux participants de découvrir un nouveau cadre méthodologique de publication de données. Les référents open data collaborent de l’identification à la valorisation des données dans un cadre ludique propice à une nouvelle forme d’engouement pour l’open data. Suite au challenge, ils pourront librement réutiliser cette méthode pour travailler sur de nouvelles données. 
 
 
+<font color='#e73458'>
+
 
 * Impulser un écosystème public de la donnée sur le territoire métropolitain
+
+</font>
 
 Les résultats du Challenge sont très concrets : jeux de données publiés et datavisualisations disponibles sous forme de graphiques ou de cartes. Les bénéfices de l’open data sont visibles et les communes participantes convaincues par l’utilité et la faisabilité de l’ouverture.
 
@@ -143,7 +153,6 @@ A partir d’un catalogue de données, les participants choisissent les données
 </div>
 <div class="col-md-10">
 
-<br>
 
 Cet atelier permet de commencer en douceur. On compare des jeux de données, on se pose les premières questions de faisabilité. Les canevas permettent de rassurer et de rendre concret le travail à venir.
 </div>
@@ -157,7 +166,6 @@ Cet atelier permet de commencer en douceur. On compare des jeux de données, on 
 </div>
 <div class="col-md-10">
 
-<br>
 
 Une question a été posée proche de la fin de l’atelier pour savoir à quoi devait ressembler un jeu de données pour être publié. Nous avons montré les ressources de l’atelier suivant comprenant des schémas de données. La réponse a été instantanée : Ah, c’est juste ça !
 Nous aurions pu ajouter à la présentation un avant/après sur la mise en qualité d’un jeu de données pour montrer que cela est très accessible.
@@ -324,7 +332,7 @@ df <- data.frame(
     value = c(5, 7, 17, 5),
     info = c("Communes",
              "Participants",
-             "Jeux de données ouverts",
+             "Jeux de données \nouverts",
              "Réutilisations"),
     color = factor(1:4)
 )
@@ -336,7 +344,7 @@ ggplot(df, aes(x, y, height = h, width = w, label = info)) +
     ## Add the numeric values as text in `value` column
     geom_text(color = "white", fontface = "bold", size = 16,
               aes(label = ifelse(value > 999, format(as.integer(value, 0), nsmall = 1, big.mark = "."), value), 
-                  x = x - 1.2, y = y + 0.5), 
+                  x = x - 1, y = y + 0.7), 
               hjust = 0) +
     ## Add the labels for each box stored in the `info` column
     geom_text(color = "white", fontface = "bold", size = 10,

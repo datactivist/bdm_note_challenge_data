@@ -34,6 +34,7 @@ h3 { /*titre de niveau #3*/
   font-family: "Nexa Bold"; /*police*/
   font-weight: bold; /*gras*/
   padding: 10px; /*alinéa*/
+  padding-left: 0px; /*alinéa*/
 }
 h4 { /*titre de niveau #4*/
   color: #e73458; /*couleur titre*/
@@ -41,7 +42,7 @@ h4 { /*titre de niveau #4*/
   font-family: "Nexa Bold"; /*police*/
   font-weight: bold; /*gras*/
   padding: 10px; /*alinéa*/
-  padding-left: 50px; /*alinéa*/
+  padding-left: 40px; /*alinéa*/
 }
 h5 { /*titre de niveau #5*/
   color: #e73458; /*couleur titre*/
@@ -52,6 +53,7 @@ h5 { /*titre de niveau #5*/
 }
 body { /*corps de texte*/
   text-align: justify; /*texte justifié*/
+  font-size: 1.5em; /*taille*/
   font-family: "Trade Gothic"; /*police*/
   letter-spacing: 0px; /*pas d'espace entre les lettres*/
   list-style: disc inside; /*listes en bullet-points*/
