@@ -320,42 +320,6 @@ A t-on des photos des dessins ??? Moi non…
 
 ## Résultats
 
-```{r include=FALSE, eval=FALSE}
-library(icons)
-library(tidyverse)
-# Table
-df <- data.frame(
-    x = c(2, 8.5, 15, 21.5),
-    y = rep(6.5, 4),
-    h = rep(4.25, 4),
-    w = rep(6.25, 4),
-    value = c(5, 7, 17, 5),
-    info = c("Communes",
-             "Participants",
-             "Jeux de données \nouverts",
-             "Réutilisations"),
-    color = factor(1:4)
-)
-
-# Graphique
-ggplot(df, aes(x, y, height = h, width = w, label = info)) +
-    ## Create the tiles using the `color` column
-    geom_tile(aes(fill = color)) +
-    ## Add the numeric values as text in `value` column
-    geom_text(color = "white", fontface = "bold", size = 16,
-              aes(label = ifelse(value > 999, format(as.integer(value, 0), nsmall = 1, big.mark = "."), value), 
-                  x = x - 1, y = y + 0.7), 
-              hjust = 0) +
-    ## Add the labels for each box stored in the `info` column
-    geom_text(color = "white", fontface = "bold", size = 10,
-              aes(label = info, x = x - 2.9, y = y - 1), hjust = 0) +
-    coord_fixed() +
-    #scale_fill_manual(type = "qual", palette = "Dark2") +
-    scale_fill_manual(values = c("#9bcea4", "#ef7875", "#ffcc00", "#23ae84", "#fecf5d", "#21468d")) +
-    ## Use `geom_text()` to add the icons by specifying the unicode symbol.
-    theme_void() +
-    guides(fill = FALSE)
-```
 
 ![](images/Infographie_BDM.png)
 
