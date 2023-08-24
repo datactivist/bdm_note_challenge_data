@@ -133,6 +133,8 @@ Le Challenge est composé par 5 ateliers introduits par un webinaire de présent
 
 A partir d’un catalogue de données, les participants choisissent les données qu’ils souhaitent ouvrir pour réaliser leur wishlist, c'est-à-dire, leur liste au Père Noël. Forts de cette liste, ils partent ensuite à la recherche des données au sein de leur collectivité. Puis, chaque jeu de données collecté est étudié au travers d’une checklist pour évaluer le travail de mise en qualité nécessaire. Cela permet d’évaluer la faisabilité du travail à fournir, de hiérarchiser et de prioriser les efforts. A la fin de l’atelier, les participants définissent leur “Wanted data list”, c’est-à-dire, la liste des jeux de données qu’ils s’engagent à ouvrir. 
 
+![](images/Img1-wishlist-wanted-data-list.jpg)
+
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Supports
 
@@ -145,11 +147,11 @@ A partir d’un catalogue de données, les participants choisissent les données
 [Le canevas : Checklist de mise en qualité](https://nextcloud.datactivist.coop/s/xTaErMxEdnyXzkb)
 
 
-#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Ce qui a fonctionné / Ce qui a moins fonctionné
+#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Animation de l'atelier
 
 <div class="row">
 <div class="col-md-2">
-![](images/Fonctionne-plus.jpg){width=120%}
+![](images/fonctionne.svg){width=120%}
 </div>
 <div class="col-md-10">
 
@@ -158,11 +160,11 @@ Cet atelier permet de commencer en douceur. On compare des jeux de données, on 
 </div>
 </div>
 
-<br>
+<hr>
 
 <div class="row">
 <div class="col-md-2">
-![](images/Fonctionne-moins.jpg){width=120%}
+![](images/fonctionne-pas.svg){width=120%}
 </div>
 <div class="col-md-10">
 
@@ -172,18 +174,19 @@ Nous aurions pu ajouter à la présentation un avant/après sur la mise en quali
 </div>
 </div>
 
+<hr>
 
+<div class="row">
+<div class="col-md-2">
+![](images/conseil-animation.svg){width=120%}
+</div>
+<div class="col-md-10">
 
-#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Conseil d’animation
 
 Partir d’exemples réels adaptés au public que l’on a. Par exemple, si vous vous adressez à un service en particulier, l’idéal est de trouver des jeux de données qu’ils manipulent au quotidien.
+</div>
+</div>
 
-
-#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Images/Visuels
-
-Visuel ODC étape Identification
-
-Wishlist // Checklist // Wanted data list
 
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Étape 2 : Mise en qualité 
@@ -204,16 +207,31 @@ Puisque chaque participant peut avoir un niveau différent sur l’utilisation d
 
 [Le support de l’atelier 3](https://nextcloud.datactivist.coop/s/kADqSF6WB765MGz)
 
-La liste des tutoriels
+[La liste des tutoriels](https://docs.google.com/spreadsheets/d/1mEVTtWzxDThRYWfRrnfLzwr9iFG2ZI2c9-M_x2G23wc/edit?usp=sharing)
 
 
-#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Ce qui a fonctionné / Ce qui a moins fonctionné
+#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Animation de l'atelier
 
-<span style="text-decoration:underline;">Fonctionné</span>
+<div class="row">
+<div class="col-md-2">
+![](images/fonctionne.svg){width=120%}
+</div>
+<div class="col-md-10">
+
 
 La documentation des modèles de données a permis aux participants de comprendre l’aboutissement prévu du nettoyage. Lors de la seconde séance, les participants se sont dit “à l’aise” avec la méthode. Avec la pratique, la méthode et même la comparaison avec d’autres jeux de données produits par d’autres étaient acquises.
+</div>
+</div>
 
-<span style="text-decoration:underline;">Moins fonctionné</span>
+<hr>
+
+<div class="row">
+<div class="col-md-2">
+![](images/fonctionne-pas.svg){width=120%}
+</div>
+<div class="col-md-10">
+
+
 
 Les tutoriels ont bien aidé mais le template était prévu pour documenter au fur et à mesure les modifications apportées au jeu de données brut et décidé par écrit quand cette modification devait être réalisée (par le producteur de la donnée ou par le référent). Or, ce template n’a pas souvent été complété. Pour ne pas freiner le nettoyage et l’excellent volonté des participants, le format pourrait être adapté : 
 
@@ -222,9 +240,17 @@ Les tutoriels ont bien aidé mais le template était prévu pour documenter au f
 1. On nettoie avec les tutoriels en support si besoin
 2. On valide que le jeu de données est prêt
 3. On documente uniquement à la fin les modifications et la suite à donner
+</div>
+</div>
 
+<hr>
 
-#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Conseil d’animation
+<div class="row">
+<div class="col-md-2">
+![](images/conseil-animation.svg){width=120%}
+</div>
+<div class="col-md-10">
+
 
 Faire quelques démonstrations simples qui font gagner beaucoup de temps pour donner envie de regarder les tutoriels sinon les participants ont tendance à garder leurs habitudes et pour la plupart font à la main.
 
@@ -235,11 +261,9 @@ Ne pas préjuger du niveau des participants et ne pas oublier d’expliquer les 
 * Copier / Coller les valeurs brutes
 * Recherche/Remplacer
 * Convertir
+</div>
+</div>
 
-
-#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Images/Visuels
-
-JDD brut vers modèle avec explication
 
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Étape 3 : Publication
@@ -321,7 +345,7 @@ A t-on des photos des dessins ??? Moi non…
 ## Résultats
 
 
-![](images/Infographie_BDM.png)
+![](images/chiffres-cles.jpg)
 
 
 Mettre un mot sur chaque dataviz + la dataviz en iframe (voir taille à privilégier) + lien vers l’Atelier Open Data
