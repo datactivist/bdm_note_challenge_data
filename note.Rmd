@@ -482,7 +482,10 @@ Pour le moment, on ne peut donc pas filtrer uniquement les associations sportive
 * Economie
 * Emploi, insertion professionnelle, formation
 
+![](images/asso-talence-categories.jpg)
+
 Cela permet de visualiser sur la carte les différents types d’associations, de faire des recherches et de filtrer selon ses besoins.
+Commentaire à effacer : JDD réalisé par Sarah pour la catégorisation, à valider avec Tristan pour voir si mise en ligne en l'état possible. Image car la carte refuse de s'enregistrer sur Open Data Soft.
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
 
