@@ -141,7 +141,7 @@ Comme indique, le challenge se compose de 5 ateliers introduits par un webinaire
 
 A partir d’un catalogue de données, les participants choisissent les données qu’ils souhaitent ouvrir pour réaliser leur wishlist, c'est-à-dire, la liste des données qu’ils souhaiteraient ouvrir. Forts de cette liste, ils partent ensuite à la recherche des données au sein de leur collectivité. Puis, chaque jeu de données collecté est étudié au travers d’une checklist pour évaluer le travail de mise en qualité nécessaire. Cela permet d’évaluer la faisabilité du travail à fournir, de hiérarchiser et de prioriser les efforts. A la fin de l’atelier, les participants définissent leur “Wanted data list”, c’est-à-dire, la liste des jeux de données qu’ils s’engagent à ouvrir.  
 
-![](images/Img1-wishlist-wanted-data-list.jpg)
+![](images/Embed_2identification.jpg)
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Supports
@@ -202,6 +202,8 @@ Partir d’exemples réels adaptés au public présent. Par exemple, pour s’ad
 L’étape de mise en qualité consiste à mettre en parallèle le jeu de données récupéré et un modèle de données. Les modèles, accompagnés de leur documentation, permettent une montée en qualité des données proposées en open data, surtout lorsque plusieurs producteurs de données produisent un même jeu de données. Ils peuvent être issus des schémas répertoriés sur [https://schema.data.gouv.fr](https://schema.data.gouv.fr) ou réalisés par les soins des animateurs à partir de jeux de données de qualité produits par d’autres collectivités (notamment la ville de Bordeaux).
 
 Puisque chaque participant peut avoir un niveau différent sur l’utilisation d’Excel et que Bordeaux Métropole utilise la solution Open Data Soft pour son portail open data, il a été réalisé un tableau des différents traitements possibles avec des tutoriels pour chacun. Ainsi les participants ont nettoyé, compilé et standardisé leurs données. Cette étape est la moins glorifiante et souvent la plus longue, elle a donc pris 2 séances. C’est aussi le moment de questionnement de la saisie de la donnée au sein de son administration pour savoir si dorénavant, ces modifications devront être réalisées dès la phase de production ou si elles resteront à la charge du référent open data.
+
+![](images/Embed_3qualification.jpg)
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Supports
@@ -275,6 +277,8 @@ Ne pas préjuger du niveau des participants et ne pas oublier d’expliquer les 
 
 Cette étape est au cœur du challenge : la publication des jeux de données sur l’atelier open data métropolitain permet de travailler sur les enjeux liés à la publication des données afin d’en faciliter la découvrabilité et l’usage à travers le renseignement précis des métadonnées et de la licence.
 
+![](images/Embed_4publication.jpg)
+
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Supports
 
@@ -331,6 +335,8 @@ Il est important de faciliter au maximum la réalisation de la documentation. Il
 Parce que le travail d’une collectivité locale ne doit pas s’arrêter à la publication, le challenge propose une étape de valorisation des données. Après une partie théorique rapide des bases de la datavisualisation, les participants réalisent une dataviz imposée pour comprendre l’outil Open Data Soft et ses subtilités. Puis, la partie la plus créative arrive. C’est l’heure de se poser les questions sur ce que l’on souhaite représenter et dessiner à la main sa datavisualisation. L’atelier met en exergue que la dataviz ne se restreint pas à l’outil utilisé mais bien au message que l’on veut faire passer. Enfin, bien entendu, les participants réalisent, sur Open Data Soft, la datavisualisation imaginée.
 
 Cette étape permet de se rendre compte de la qualité de ses données. Quoi de mieux qu’une carte pour visualiser qu’une école est mal placée donc que les coordonnées géographiques sont erronées. Cette étape de valorisation permet donc de se mettre à la place du réutilisateur et de comprendre les potentiels cas d’usage liés à ses données.
+
+![](images/Embed_5valorisation.jpg)
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Supports
