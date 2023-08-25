@@ -458,34 +458,81 @@ La ville d’Issy les Moulineaux met à disposition des habitants un outil pour 
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=25px} Liste des associations
 
-Seul jeu ouvert par Talence pour le moment
+La ville de Talence a publié la [liste des associations](https://opendata.bordeaux-metropole.fr/explore/dataset/associations-de-la-ville-de-talence/information/) qui agissent sur la ville. Cette liste présente les contacts des associations ainsi que leur localisation. En regardant cela sur une carte, on remarque que certaines associations ne sont pas localisées à Talence. 
 
-Aucune catégorisation, donc il n’est possible que de faire une carte
+<iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/associations-talence/?&static=false&scrollWheelZoom=false"></iframe> 
 
-Proposition de catégorisation : [https://www.data.gouv.fr/ods/preview/data.angers.fr/annuaire_asso_angers](https://www.data.gouv.fr/ods/preview/data.angers.fr/annuaire_asso_angers)
+Le jeu de données ne propose pas de catégorisation des associations alors que l’annuaire des associations du site de la ville en propose une : 
 
-Et cas d’usage : [https://issy.assolib.fr](https://issy.assolib.fr) 
+Pour le moment, on ne peut donc pas filtrer uniquement les associations sportives ou culturelles par exemple. D’autres collectivités le font, comme ce jeu de données de la [ville d’Angers](https://www.data.gouv.fr/ods/preview/data.angers.fr/annuaire_asso_angers), de plus la ville de Bordeaux dispose d’un site dédié à ces associations : [https://assos.bordeaux.fr](https://assos.bordeaux.fr). Afin de pouvoir faire une carte des associations de l’ensemble du territoire de Bordeaux Métropole, il est plus opportun de préconiser d’utiliser la catégorisation de la ville de Bordeaux qui est : 
 
+* Vivre ensemble, vie quotidienne
+* Culture
+* Sport
+* Loisirs
+* Education - Enfance - Jeunesse - Vie étudiante
+* Entraide, solidarité, humanitaire
+* Santé, bien-être
+* Cadre de vie environnement
+* Sciences
+* Economie
+* Emploi, insertion professionnelle, formation
+
+Cela permet de visualiser sur la carte les différents types d’association, de faire des recherches et de filtrer selon ses besoins.
+
+#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
+
+La collecte des données auprès des associations peut être fastidieuse. D’autre part, lorsqu’un usager recherche une association, c’est pour faire une activité. La liste n’est donc que la porte d’entrée pour obtenir les informations requises : activités proposées, tranche d’âge, horaires, disponibilités, tarifs…
+
+Pour offrir un service supplémentaire à leurs habitants, quelques villes ont fait le choix de donner la main aux associations pour remplir les données les concernant. Cela permet de mettre à disposition l’ensemble des informations nécessaire à la recherche d’une activité, le tout avec un système de recherche facilité.
+
+Exemples : 
+
+
+
+* [Boulogne Billancourt](https://boulognebillancourt.assolib.fr)
+* [Fosses](https://ville-fosses95.assolib.fr)
+* [Issy les Moulineaux](https://issy.assolib.fr)
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=25px} Réservation des salles municipales
 
-[https://opendata.bordeaux-metropole.fr/explore/dataset/bor_reservations_salles_municipales_donnees/custom/](https://opendata.bordeaux-metropole.fr/explore/dataset/bor_reservations_salles_municipales_donnees/custom/) 
+La ville de Bordeaux a publié les réservations de salles municipales. La direction pourvoyeuse des informations est la direction vie associative enfance et jeunesse de la mairie de Bordeaux. Chaque enregistrement mentionne l'équipement public, la salle, l'usager, l'heure de début, l'heure de fin, la durée de la réservation. Les enregistrements sont enrichis d'informations caractérisant les locaux concernés (horaires d'ouverture, superficies, capacités...).
 
+La ventilation des informations par quartier et équipement public peut permettre aux réutilisateurs de croiser les données de ce jeu avec celles d'autres jeux dans lesquels ces 2 notions d'équipement public et de quartier sont présentes.
 
-### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=25px} Délibérations
+Deux visualisations ont été réalisées à partir de ce jeu de données. La première permet de visualiser le nombre d’heures de réservation de salle par quartier puis le zoom permet une visualisation de plus en plus fine.
 
-Seul jeu ouvert par le Taillan Médoc
+<iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/bor_reservations_salles_municipales_donnees/custom/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe> 
 
-Partie ouverture/conclusive des résultants : Ce qu’ont retenu les participants
+[Cartographie réservation de salles à Bordeaux](https://opendata.bordeaux-metropole.fr/explore/dataset/bor_reservations_salles_municipales_donnees/custom/)
+
+Puis voici un tableau de bord permettant de comparer les réservations selon les quartiers, les équipements et les dates.
+
+[Statistiques réservation de salles à Bordeaux](https://opendata.bordeaux-metropole.fr/p/statistiques-reservations-de-salles-a-bordeaux/)
+
+La collecte des informations a été initiée par un retraitement bureautique des données exportées du système de gestion des réservations des salles (Planitech). Il a été choisi de garder une granularité très fine des données pour permettre les réutilisations les plus larges possibles.
+
 
 <div class="sidenote">![](https://nextcloud.datactivist.coop/s/7Y4mMTPWpKDGmaR/preview){width=200px}</div>
 
 
 ## Et après
 
-Guillaume
+Outre l’ouverture et l’usage de nouveaux jeux de données présentés plus haut, ce challenge data a permis de construire une petite communauté de référents open data très motivés pour continuer à ouvrir des données au sein de leurs communes. Suite aux 5 sessions de travail, les participants repartent avec deux idées majeures : 
 
-Perspectives suite au challenge (Enseignements - Recommandations / Leviers d'actions)
+
+
+* L’open data, ce n’est pas si compliqué !
+* L’open data est utile pour leurs communes
+
+Cependant, la fin du challenge data ne doit pas être une fin en soi. Elle doit marquer le début d’une nouvelle politique d’animation des données territoriales, volontariste et tournée vers l’extérieur et notamment les communes. Les enjeux et questionnements sont multiples : 
+
+
+
+* Quels sont les objectifs de cette nouvelle communauté ? 
+* Comment et dans quel cadre Bordeaux Métropole doit-il poursuivre son animation ? 
+* Comment développer cette communauté à d’autres communes du territoire métropolitain ? 
+* Quels moyens et ressources doivent y être dédiés ?
 
 ::: {.tocify-extend-page data-unique="tocify-extend-page" style="height: 0;"}
 :::
