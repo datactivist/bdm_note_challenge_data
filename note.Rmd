@@ -84,7 +84,10 @@ Bien que pouvant être considéré, à juste titre, comme une réussite et une d
 
 En l'espèce, les jeux de données de l’atelier open data sont publiés pour plus de 70% par la Métropole de Bordeaux et 25% par la Ville de Bordeaux. La ville de Talence (20 jeux de données) et la ville de Pessac (2 jeux de données) sont les deux seules autres collectivités productrices de données de la plateforme, comme le montre la liste des producteurs de données de l'atelier open data au 1er janvier 2023.
 
-![](images/producteurs-donnees-avant-challenge.png)
+<p align="center">
+  <img src="images/producteurs-donnees-avant-challenge.png" />
+</p>
+
 
 Conscient de cette faiblesse, la Métropole de Bordeaux a souhaité redynamiser la démarche d’ouverture des données pour les communes de son territoire. Elle proposa à 14 communes (6 communes pilotes ayant déjà accès à l’atelier open data et 8 nouvelles communes membres du service commun DGNSI) de participer à un challenge data d’avril à juin 2023. 
 
@@ -143,13 +146,10 @@ A partir d’un catalogue de données, les participants choisissent les données
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Supports
 
-[Le catalogue de données](https://airtable.com/appt5LkiFMoP8alQl/shrBV8QWVZXTBg7Mz)
-
-[Le support du webinaire de présentation](https://nextcloud.datactivist.coop/s/icCr8BJ7AYaJBk2)
-
-[Le support de l’atelier 1](https://nextcloud.datactivist.coop/s/bEJy9iWEaGqWPrf)
-
-[Le canevas : Checklist de mise en qualité](https://nextcloud.datactivist.coop/s/xTaErMxEdnyXzkb)
+* [Le catalogue de données](https://airtable.com/appt5LkiFMoP8alQl/shrBV8QWVZXTBg7Mz)
+* [Le support du webinaire de présentation](https://nextcloud.datactivist.coop/s/icCr8BJ7AYaJBk2)
+* [Le support de l’atelier 1](https://nextcloud.datactivist.coop/s/bEJy9iWEaGqWPrf)
+* [Le canevas : Checklist de mise en qualité](https://nextcloud.datactivist.coop/s/xTaErMxEdnyXzkb)
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Animation de l'atelier
@@ -206,13 +206,10 @@ Puisque chaque participant peut avoir un niveau différent sur l’utilisation d
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Supports
 
-[Les modèles de données](https://nextcloud.datactivist.coop/s/iBTWDG4TGscd4SB)
-
-[Le support de l’atelier 2](https://nextcloud.datactivist.coop/s/zcgYEq354HctKqY)
-
-[Le support de l’atelier 3](https://nextcloud.datactivist.coop/s/kADqSF6WB765MGz)
-
-[La liste des tutoriels](https://docs.google.com/spreadsheets/d/1mEVTtWzxDThRYWfRrnfLzwr9iFG2ZI2c9-M_x2G23wc/edit?usp=sharing)
+* [Les modèles de données](https://nextcloud.datactivist.coop/s/iBTWDG4TGscd4SB)
+* [Le support de l’atelier 2](https://nextcloud.datactivist.coop/s/zcgYEq354HctKqY)
+* [Le support de l’atelier 3](https://nextcloud.datactivist.coop/s/kADqSF6WB765MGz)
+* [La liste des tutoriels](https://docs.google.com/spreadsheets/d/1mEVTtWzxDThRYWfRrnfLzwr9iFG2ZI2c9-M_x2G23wc/edit?usp=sharing)
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Animation de l'atelier
@@ -281,9 +278,8 @@ Cette étape est au cœur du challenge : la publication des jeux de données sur
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Supports
 
-[Le support de l’atelier 4](https://nextcloud.datactivist.coop/s/mo3RfL3gSL6THNx)
-
-[Canevas Datasheets for datasets](https://docs.google.com/presentation/d/1wPIqsvBkyz7nypE9eUuBDVTz38gNfkFydgUpurWEXWI/edit?usp=sharing)
+* [Le support de l’atelier 4](https://nextcloud.datactivist.coop/s/mo3RfL3gSL6THNx)
+* [Canevas Datasheets for datasets](https://docs.google.com/presentation/d/1wPIqsvBkyz7nypE9eUuBDVTz38gNfkFydgUpurWEXWI/edit?usp=sharing)
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Animation de l'atelier
@@ -339,9 +335,8 @@ Cette étape permet de se rendre compte de la qualité de ses données. Quoi de 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Supports
 
-[Le support de l’atelier 5](https://nextcloud.datactivist.coop/s/MPCdAM6FZHeNkRD)
-
-[Le canevas pour dessiner sa datavisualisation](https://nextcloud.datactivist.coop/s/SwkgZdw5ewkwdic)
+* [Le support de l’atelier 5](https://nextcloud.datactivist.coop/s/MPCdAM6FZHeNkRD)
+* [Le canevas pour dessiner sa datavisualisation](https://nextcloud.datactivist.coop/s/SwkgZdw5ewkwdic)
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Animation de l'atelier
@@ -386,6 +381,8 @@ L’étape du dessin est particulièrement révélatrice des réflexions à avoi
 </div>
 </div>
 
+<br>
+
 <div class="sidenote">![](https://nextcloud.datactivist.coop/s/7Y4mMTPWpKDGmaR/preview){width=200px}</div>
 
 ## Résultats
@@ -396,9 +393,9 @@ L’étape du dessin est particulièrement révélatrice des réflexions à avoi
 <br>
 
 
-### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=25px} Points d’eau potable 
+### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Points d’eau potable 
 
-Prenons le cas d’usage des points d’eau potable dans une ville. La donnée n’est pas sensible et son ouverture est utile aux usagers : des habitants aux touristes. Dans le cadre du Challenge, les points d’eau potable de la ville de Mérignac ont été ouverts. Les voici, présentés sur une carte.
+Prenons le cas d’usage des points d’eau potable dans une ville. La donnée n’est pas sensible et son ouverture est utile aux usagers : des habitants aux touristes. Dans le cadre du Challenge, les points d’eau potable de la ville de Mérignac ont été ouverts. Les voici, présentés sur une carte sur laquelle nous avons ajouté les contours des quartiers pour se repérer plus facilement.
 
  
 
@@ -406,9 +403,7 @@ Prenons le cas d’usage des points d’eau potable dans une ville. La donnée n
 
 [Lien des points d’eau de Mérignac sur l’Atelier Open Data](https://opendata.bordeaux-metropole.fr/map/points_deau_potable_merignac/)
 
-   
 
-Nous avons ajouté les contours des quartiers pour se retrouver plus facilement.
 
 Si l’on recherche sur le portail, on remarque que deux autres villes ont publié leurs points d’eau potable, il semble donc intéressant de les ajouter à la datavisualisation.
 
@@ -430,7 +425,7 @@ Cet exemple montre l’intérêt immédiat de l’ouverture de ces données pour
  
 
 
-### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=25px} Effectifs scolaires
+### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Effectifs scolaires
 
 La ville du Haillan a publié les effectifs scolaires depuis l’année scolaire 1994/1995. Cela permet de visualiser l’évolution des effectifs de cette date à aujourd’hui. Nous avons comparé cette évolution à celle du nombre de classes.
 
@@ -456,7 +451,7 @@ La ville d’Issy les Moulineaux met à disposition des habitants un outil pour 
 
 [Lien vers la réutilisation de la ville d’Issy-lès-Moulineaux](https://data.issy.com/pages/carte-scolaire-issy-portail/)
 
-### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=25px} Liste des associations
+### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Liste des associations
 
 La ville de Talence a publié la [liste des associations](https://opendata.bordeaux-metropole.fr/explore/dataset/associations-de-la-ville-de-talence/information/) qui agissent sur la ville. Cette liste présente les contacts des associations ainsi que leur localisation. En regardant cela sur une carte, on remarque que certaines associations ne sont pas localisées à Talence. 
 
@@ -502,7 +497,7 @@ Exemples :
 * [Fosses](https://ville-fosses95.assolib.fr)
 * [Issy les Moulineaux](https://issy.assolib.fr)
 
-### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=25px} Réservation des salles municipales
+### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Réservation des salles municipales
 
 La ville de Bordeaux a publié les réservations de salles municipales. La direction pourvoyeuse des informations est la direction vie associative enfance et jeunesse de la mairie de Bordeaux. Chaque enregistrement mentionne l'équipement public, la salle, l'usager, l'heure de début, l'heure de fin, la durée de la réservation. Les enregistrements sont enrichis d'informations caractérisant les locaux concernés (horaires d'ouverture, superficies, capacités...).
 
