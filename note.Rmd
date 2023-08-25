@@ -440,12 +440,21 @@ On remarque facilement que le nombre d’élèves commence à diminuer pour un n
 
 La ville de Mérignac a aussi publié les effectifs scolaires. On remarque que les données sont différentes. En effet, la ville de Mérignac s’est concentrée sur le millésime 2023. Dans les années à venir, il sera intéressant de suivre la mise à jour de ce jeu de données pour pouvoir suivre les effectifs dans le temps.
 
-D’autre part, à partir de ces jeux de données, il est possible de réaliser une carte pour situer les écoles et ceci pour les deux jeux publiés. Cela pourra être intéressant à l’avenir de publier la sectorisation scolaire pour visualiser en un coup d'œil l’école dont on dépend.
+D’autre part, à partir de ces jeux de données, il est possible de réaliser une carte pour situer les écoles et ceci pour les deux jeux publiés.
 
 <iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/carte_ecole_la_haillan_merignac/?&static=false&scrollWheelZoom=false"></iframe>
 
-Lien : https://opendata.bordeaux-metropole.fr/map/carte_ecole_la_haillan_merignac/
+[Cartes des écoles du Haillan et de Mérignac](https://opendata.bordeaux-metropole.fr/map/carte_ecole_la_haillan_merignac/)
 
+Ces données peuvent être combinées à celles de la sectorisation scolaire. Ainsi, un usager qui souhaite s'installer sur un nouveau territoire peut s’informer de l’école dont ses enfants dépendraient sans avoir à solliciter l’administration. Le jeu de données sur la sectorisation scolaire de Mérignac est en cours de production. [Celui de la ville de Bordeaux](https://opendata.bordeaux-metropole.fr/explore/dataset/bor_cartescol/information/) était déjà en ligne avant le challenge.
+
+#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
+
+La ville d’Issy les Moulineaux met à disposition des habitants un outil pour savoir à quelle école est rattachée chaque adresse. L’utilisation est très simple, en indiquant son adresse, l’outil indique les écoles maternelle et primaire à laquelle est rattachée l’adresse.
+
+![](images/Img4-sectorisation-issy.jpg) 
+
+[Lien vers la réutilisation de la ville d’Issy-lès-Moulineaux](https://data.issy.com/pages/carte-scolaire-issy-portail/)
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=25px} Liste des associations
 
