@@ -463,6 +463,14 @@ La ville de Talence a publié la [liste des associations](https://opendata.borde
 <iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/associations-talence/?&static=false&scrollWheelZoom=false"></iframe> 
 
 Le jeu de données ne propose pas de catégorisation des associations alors que l’annuaire des associations du site de la ville en propose une : 
+* Action sociale & solidarité
+* Autres
+* Culture
+* Emploi & économie
+* Jeunesse & vie étudiante
+* Santé
+* Seniors
+* Sport
 
 Pour le moment, on ne peut donc pas filtrer uniquement les associations sportives ou culturelles par exemple. D’autres collectivités le font, comme ce jeu de données de la [ville d’Angers](https://www.data.gouv.fr/ods/preview/data.angers.fr/annuaire_asso_angers), de plus la ville de Bordeaux dispose d’un site dédié à ces associations : [https://assos.bordeaux.fr](https://assos.bordeaux.fr). Afin de pouvoir faire une carte des associations de l’ensemble du territoire de Bordeaux Métropole, il est plus opportun de préconiser d’utiliser la catégorisation de la ville de Bordeaux qui est : 
 
@@ -478,7 +486,7 @@ Pour le moment, on ne peut donc pas filtrer uniquement les associations sportive
 * Economie
 * Emploi, insertion professionnelle, formation
 
-Cela permet de visualiser sur la carte les différents types d’association, de faire des recherches et de filtrer selon ses besoins.
+Cela permet de visualiser sur la carte les différents types d’associations, de faire des recherches et de filtrer selon ses besoins.
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
 
@@ -507,6 +515,7 @@ Deux visualisations ont été réalisées à partir de ce jeu de données. La pr
 [Cartographie réservation de salles à Bordeaux](https://opendata.bordeaux-metropole.fr/explore/dataset/bor_reservations_salles_municipales_donnees/custom/)
 
 Puis voici un tableau de bord permettant de comparer les réservations selon les quartiers, les équipements et les dates.
+![](images/Img5-reservations-salles-bordeaux.jpg)
 
 [Statistiques réservation de salles à Bordeaux](https://opendata.bordeaux-metropole.fr/p/statistiques-reservations-de-salles-a-bordeaux/)
 
