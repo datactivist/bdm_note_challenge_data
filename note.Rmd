@@ -97,7 +97,7 @@ Sur les 14 communes, 5 communes ont accepté de relever le défi et d’être ac
 
 ## Objectif
 
-D’une durée de 3 mois et composé de 5 ateliers (cf. méthode), le challenge data poursuit 3 principaux objectifs : 
+D’une durée de 3 mois et composé de 5 ateliers, le challenge data poursuit 3 principaux objectifs : 
 
 <font color='#e73458'>
 
@@ -131,7 +131,7 @@ Les résultats du Challenge sont très concrets : jeux de données publiés et d
 
 ## Méthode
 
-Le Challenge est composé par 5 ateliers introduits par un webinaire de présentation. Lors de chaque atelier, les animateurs présentent une partie théorique courte pour comprendre les principes de base de l’open data mais aussi et surtout une partie pratique durant laquelle les participants font eux-mêmes. 
+Comme indique, le challenge se compose de 5 ateliers introduits par un webinaire de présentation. Lors de chaque atelier, les animateurs présentent une partie théorique courte pour comprendre les principes de base de l’open data mais aussi et surtout une partie pratique durant laquelle les participants font eux-mêmes. 
 
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Étape 1 : Diagnostic et identification des données
@@ -458,6 +458,7 @@ La ville de Talence a publié la [liste des associations](https://opendata.borde
 <iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/associations-talence/?&static=false&scrollWheelZoom=false"></iframe> 
 
 Le jeu de données ne propose pas de catégorisation des associations alors que l’annuaire des associations du site de la ville en propose une : 
+
 * Action sociale & solidarité
 * Autres
 * Culture
@@ -505,7 +506,7 @@ La ventilation des informations par quartier et équipement public peut permettr
 
 Deux visualisations ont été réalisées à partir de ce jeu de données. La première permet de visualiser le nombre d’heures de réservation de salle par quartier puis le zoom permet une visualisation de plus en plus fine.
 
-<iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/bor_reservations_salles_municipales_donnees/custom/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe> 
+<iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/bor_reservations_salles_municipales_donnees/custom/?&static=false&datasetcard=false" width="800" height="400" frameborder="0"></iframe>
 
 [Cartographie réservation de salles à Bordeaux](https://opendata.bordeaux-metropole.fr/explore/dataset/bor_reservations_salles_municipales_donnees/custom/)
 
