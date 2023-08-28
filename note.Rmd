@@ -2,7 +2,7 @@
 title: "Challenge data <br>Bordeaux Métropole"
 output:
     rmarkdown::html_document:
-      self_contained: false
+      #self_contained: false
       theme: paper
       toc: true
       toc_float: true
