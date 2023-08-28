@@ -54,10 +54,10 @@ htmltools::img(src = "https://nextcloud.datactivist.coop/s/kWMDDLHBXHXXgSE/previ
                style = 'position:absolute; top:0; left:0; right:0;')
 
 # Polices Nexa et Trade Gothic
-#library(showtext)
-#font_add("Nexa", regular = "Nexa Bold.otf")
-#font_add("Trade Gothic", regular = "Trade Gothic.otf")
-#showtext_auto()
+library(showtext)
+font_add("Nexa", regular = "Nexa Bold.otf")
+font_add("Trade Gothic", regular = "Trade Gothic.otf")
+showtext_auto()
 ```
 
 
