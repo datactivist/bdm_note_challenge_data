@@ -551,6 +551,7 @@ La datavisualisation ci-dessous est un diagramme sunburst qui permet de visualis
 
 Le jeu de données du Taillan Médoc commence en mars 2023. Il sera intéressant de le mettre à jour après chaque conseil municipal. Le cercle central pourra évoluer pour ajouter les années afin de comparer dans les temps la répartition du nombre de délibérations par matière.
 Voici l'exemple de la commune de Lys Saint Georges.
+![](images/Sunburst-deliberations-lys-saint-georges.jpg)
 
 [Lien de la réutilisation](https://www.data.gouv.fr/fr/reuses/repartition-des-thematiques-des-deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-sur-la-periode-2018-2022/)
 
