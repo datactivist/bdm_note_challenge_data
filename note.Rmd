@@ -72,14 +72,14 @@ En 2019, les deux administrations font converger leurs outils et créent, avec l
 
 ![](images/atelier-open-data.jpg)
 
-La mise à disposition de la plateforme s’accompagne d’une offre de service open data opérée par la Direction Générale Numérique et Systèmes d’Information (DGNSI) commune à la Métropole et à la ville de Bordeaux. 
+La mise à disposition de la plateforme s’accompagne d’une offre de service open data opérée par la Direction Générale Numérique et Systèmes d’Information (DGNSI), service commun de Bordeaux Métropole et des communes ayant mutualisé leur système d'information. 
 En janvier 2023, l’atelier open data compte plus de 360 jeux de données accessibles et a permis la création d’une dizaine d’applications et de services par l’administration ou des tiers réutilisateurs.
 
 <div class="sidenote">![](https://nextcloud.datactivist.coop/s/7Y4mMTPWpKDGmaR/preview){width=200px}</div>
 
 ## Constat
 
-Bien que pouvant être considéré, à juste titre, comme une réussite et une des dynamiques exemplaires d’open data territoriales en France, l’atelier open data Bordelais souffre d’un mal trop bien connu des collectivités territoriales en charge d’une politique de données ouvertes sur un territoire. La production et l’ouverture de données ne repose que sur un nombre limités de producteurs. 
+Bien que pouvant être considéré, à juste titre, comme une réussite et une des dynamiques exemplaires d’open data territoriales en France, l’atelier open data Bordelais souffre d’un mal trop bien connu des collectivités territoriales en charge d’une politique de données ouvertes sur un territoire. La production et l’ouverture de données ne repose que sur un nombre limité de producteurs. 
 
 En l'espèce, les jeux de données de l’atelier open data sont publiés pour plus de 70% par la Métropole de Bordeaux et 25% par la Ville de Bordeaux. La ville de Talence (20 jeux de données) et la ville de Pessac (2 jeux de données) sont les deux seules autres collectivités productrices de données de la plateforme, comme le montre la liste des producteurs de données de l'atelier open data au 1er janvier 2023.
 
@@ -88,9 +88,9 @@ En l'espèce, les jeux de données de l’atelier open data sont publiés pour p
 </p>
 
 
-Conscient de cette faiblesse, la Métropole de Bordeaux a souhaité redynamiser la démarche d’ouverture des données pour les communes de son territoire. Elle proposa à 14 communes (6 communes pilotes ayant déjà accès à l’atelier open data et 8 nouvelles communes membres du service commun DGNSI) de participer à un challenge data d’avril à juin 2023. 
+Conscient de cette faiblesse, la Métropole de Bordeaux a souhaité redynamiser la démarche d’ouverture des données pour les communes de son territoire. Elle invite 14 communes (6 communes pilotes ayant déjà accès à l’atelier open data et 8 nouvelles communes du service commun DGNSI) à participer à un challenge data d’avril à juin 2023. 
 
-Sur les 14 communes, 5 communes ont accepté de relever le défi et d’être accompagnées par la DGNSI et Datactivist dans l’ouverture et la valorisation de leurs jeux de données : la ville de Bordeaux, Talence, Mérignac, Le Taillan-Médoc et le Haillan. 
+Sur les 14 communes, 5 communes ont accepté de relever le défi et d’être accompagnées par la DGNSI et Datactivist dans l’ouverture et la valorisation de leurs jeux de données : les villes de Bordeaux, Talence, Mérignac, Le Taillan-Médoc et le Haillan. 
 
 <div class="sidenote">![](https://nextcloud.datactivist.coop/s/7Y4mMTPWpKDGmaR/preview){width=200px}</div>
 
@@ -187,7 +187,7 @@ Nous aurions pu ajouter à la présentation un avant/après sur la mise en quali
 <div class="col-md-10">
 
 
-**Partir d’exemples réels adaptés au public présent**. Par exemple, pour s’adresser à un service particulier, l’idéal est de trouver des jeux de données qu’ils manipulent au quotidien. Concrètement, si les participants sont des agents des services à la population, il semble plus intéressant d'utiliser des jeux de données sur les effectifs scolaires, les équipements sportifs ou encore la liste des associations. Si par contre, le public vient d'un pôle stratégie urbaine, il sera plus impactant d'appuyer les exemples avec des jeux sur les équipements et espaces publics ou alors sur la consommation énergétique des bâtiments.
+**Partir d’exemples concrets adaptés au public présent**. Par exemple, pour s’adresser à un service ciblé, l’idéal est de trouver des jeux de données qu’ils manipulent au quotidien. Concrètement, si les participants sont des agents des services à la population, il semble plus intéressant d'utiliser des jeux de données sur les effectifs scolaires, les équipements sportifs ou encore la liste des associations. Si par contre, le public vient d'un pôle stratégie urbaine, il sera plus impactant d'appuyer les exemples avec des jeux sur les équipements et espaces publics ou alors sur la consommation énergétique des bâtiments.
 </div>
 </div>
 
@@ -200,7 +200,7 @@ Nous aurions pu ajouter à la présentation un avant/après sur la mise en quali
 
 L’étape de mise en qualité consiste à mettre en parallèle le jeu de données récupéré et un modèle de données. Les modèles, accompagnés de leur documentation, permettent une montée en qualité des données proposées en open data, surtout lorsque plusieurs producteurs de données produisent un même jeu de données. Ils peuvent être issus des schémas répertoriés sur [https://schema.data.gouv.fr](https://schema.data.gouv.fr) ou réalisés par les soins des animateurs à partir de jeux de données de qualité produits par d’autres collectivités (notamment la ville de Bordeaux).
 
-Puisque chaque participant peut avoir un niveau différent sur l’utilisation d’Excel et que Bordeaux Métropole utilise la solution Open Data Soft pour son portail open data, il a été réalisé un tableau des différents traitements possibles avec des tutoriels pour chacun. Ainsi **les participants ont nettoyé, compilé et standardisé leurs données**. Cette étape est la moins glorifiante et souvent la plus longue, elle a donc pris 2 séances. C’est aussi le moment de questionnement de la saisie de la donnée au sein de son administration pour savoir si dorénavant, ces modifications devront être réalisées dès la phase de production ou si elles resteront à la charge du référent open data.
+Puisque chaque participant peut avoir un niveau différent sur l’utilisation d’Excel et que Bordeaux Métropole utilise la solution Open Data Soft pour son portail open data, il a été réalisé un tableau des différents traitements possibles avec des tutoriels pour chacun. Ainsi **les participants ont nettoyé, compilé et standardisé leurs données**. Cette étape est la moins glorifiante et souvent la plus laborieuse, elle a donc pris 2 séances. C’est aussi le moment de questionnement de la saisie de la donnée au sein de son administration pour savoir si dorénavant, ces modifications devront être réalisées dès la phase de production ou si elles resteront à la charge du référent open data.
 
 ![](images/etape-open-data-canva2.jpg)
 
@@ -210,7 +210,7 @@ Puisque chaque participant peut avoir un niveau différent sur l’utilisation d
 * [Les modèles de données](https://nextcloud.datactivist.coop/s/iBTWDG4TGscd4SB)
 * [Le support de l’atelier 2](https://nextcloud.datactivist.coop/s/zcgYEq354HctKqY)
 * [Le support de l’atelier 3](https://nextcloud.datactivist.coop/s/kADqSF6WB765MGz)
-* [La liste des tutoriels](https://docs.google.com/spreadsheets/d/1mEVTtWzxDThRYWfRrnfLzwr9iFG2ZI2c9-M_x2G23wc/edit?usp=sharing)
+* [Tutoriels/template](https://docs.google.com/spreadsheets/d/1mEVTtWzxDThRYWfRrnfLzwr9iFG2ZI2c9-M_x2G23wc/edit?usp=sharing)
 
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Animation de l'atelier
@@ -236,9 +236,8 @@ La documentation des modèles de données a permis aux participants de comprendr
 
 
 
-Les tutoriels de manipulation de données ont bien aidé. Cependant, ils étaient proposés dans un template plus global dans lequel les participants devaient documenter au fur et à mesure les modifications apportées à chaque jeu de données brut. De plus, à la fin de la mise en qualité, il était demandé de décider par écrit pour chaque modification si, pour la mise à jour de la donnée, elle devait être réalisée par le producteur de la donnée ou par le référent. Or, ce template n’a pas souvent été complété. Pour ne pas freiner le nettoyage et l’excellent volonté des participants, le format pourrait être adapté : 
-
-
+Les tutoriels de manipulation de données ont bien aidé. Cependant, la consigne était de dupliquer la feuille de tutoriels par jeu de données afin de cocher les modifications apportées, de répondre aux questions "Sur quelle étape j'ai  bloqué", "Quel bon réflexe j'ai appris et définir si, pour la mise à jour de la donnée, la modification devait être réalisée par le producteur de la donnée ou par le référent.
+Or, ce "template" n’a pas souvent été complété. Pour ne pas freiner le nettoyage et l’excellente volonté des participants, le format pourrait être adapté : 
 
 1. On nettoie avec les tutoriels en support si besoin
 2. On valide que le jeu de données est prêt
@@ -366,7 +365,7 @@ Le dessin des dataviz, les âmes d’artistes ont pu se révéler !
 </div>
 <div class="col-md-10">
 
-Cette étape est la plus appréciée et tout le monde repart avec le sourire et le sentiment d’avoir produit quelque chose d’utile. Mais lorsqu’on se rend compte que ses données comportent des erreurs et nécessitent un retraitement, il semblerait utile d’avoir une session supplémentaire pour boucler le processus. De plus, le temps consacré à la réalisation des datavisualisations passe très vite, une seconde session pourrait permettre d’aborder d’autres outils.
+Cette étape est la plus appréciée et tout le monde repart avec la satisfaction et le sentiment d’avoir produit quelque chose d’utile. Mais lorsqu’on se rend compte que ses données comportent des erreurs et nécessitent un retraitement, il semblerait utile d’avoir une session supplémentaire pour boucler le processus. De plus, le temps consacré à la réalisation des datavisualisations passe très vite, une seconde session pourrait permettre d’aborder d’autres outils.
 
 </div>
 </div>
@@ -379,7 +378,7 @@ Cette étape est la plus appréciée et tout le monde repart avec le sourire et 
 </div>
 <div class="col-md-10">
 
-Pour la visualisation imposée, intégrer un “piège” sur les [facettes](https://userguide.opendatasoft.com/l/fr/article/ssrgpuc0y6-defining-a-dataset-schema#setting_up_fields_as_facets) du jeu de données. Cela permet aux participants de comprendre en un instant l’intérêt de bien les sélectionner !
+Pour la visualisation imposée, intégrer un “piège” sur les [facettes](https://userguide.opendatasoft.com/l/fr/article/ssrgpuc0y6-defining-a-dataset-schema#setting_up_fields_as_facets) (définissent les filtres applicables) du jeu de données. Cela permet aux participants de comprendre en un instant l’intérêt de bien les sélectionner !
 
 L’étape du dessin est particulièrement révélatrice des réflexions à avoir pour réaliser sa datavisualisation, il faut bien avoir le temps de réaliser cette partie avec présentation au groupe.
 
@@ -400,7 +399,7 @@ L’étape du dessin est particulièrement révélatrice des réflexions à avoi
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Points d’eau potable 
 
-Prenons le cas d’usage des points d’eau potable dans une ville. La donnée n’est pas sensible et son ouverture est utile aux usagers : des habitants aux touristes. Dans le cadre du Challenge, les points d’eau potable de la ville de Mérignac ont été ouverts. Les voici, présentés sur une carte sur laquelle nous avons ajouté les contours des quartiers pour se repérer plus facilement.
+Prenons le cas d’usage des points d’eau potable dans une ville. La donnée n’est pas sensible et son ouverture est utile aux usagers : des habitants aux touristes. Dans le cadre du Challenge, les [points d’eau potable de la ville de Mérignac](https://opendata.bordeaux-metropole.fr/explore/dataset/mer_points-d-eau-potable/information/) ont été ouverts. Les voici, présentés sur une carte sur laquelle nous avons ajouté les contours des quartiers pour se repérer plus facilement.
 
  
 
@@ -432,13 +431,13 @@ Cet exemple montre l’intérêt immédiat de l’ouverture de ces données pour
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Effectifs scolaires
 
-La ville du Haillan a publié les effectifs scolaires depuis l’année scolaire 1994/1995. Cela permet de visualiser l’évolution des effectifs de cette date à aujourd’hui. Nous avons comparé cette évolution à celle du nombre de classes.
+La ville du Haillan a publié les [effectifs scolaires](https://opendata.bordeaux-metropole.fr/explore/dataset/leh_effectifs_scolaires/information/?disjunctive.annee_scolaire) depuis l’année scolaire 1994/1995. Cela permet de visualiser l’évolution des effectifs de cette date à aujourd’hui. Nous avons comparé cette évolution à celle du nombre de classes.
 
 <iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/leh_effectifs_scolaires/analyze/?disjunctive.annee_scolaire&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoibm9tYnJlX3RvdGFsX2RfZWxldmVzIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzY2YzJhNSJ9LHsiYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJub21icmVfZGVfY2xhc3NlIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI2ZjOGQ2MiJ9XSwieEF4aXMiOiJhbm5lZV9zY29sYWlyZSIsIm1heHBvaW50cyI6NTAsInNvcnQiOiIiLCJjb25maWciOnsiZGF0YXNldCI6ImxlaF9lZmZlY3RpZnNfc2NvbGFpcmVzIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5hbm5lZV9zY29sYWlyZSI6dHJ1ZX19fV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 On remarque facilement que le nombre d’élèves commence à diminuer pour un nombre de classe stable. Si la collectivité se posait la question de l’intérêt de construire ou non un nouveau groupe scolaire, ces éléments peuvent contribuer à la réponse.
 
-La ville de Mérignac a aussi publié les effectifs scolaires. On remarque que les données sont différentes. En effet, la ville de Mérignac s’est concentrée sur le millésime 2023. Dans les années à venir, il sera intéressant de suivre la mise à jour de ce jeu de données pour pouvoir suivre les effectifs dans le temps.
+La ville de Mérignac a aussi publié les [effectifs scolaires](https://opendata.bordeaux-metropole.fr/explore/dataset/mer-jeu-donnees-ecoles_maternelles-adresse/information/). On remarque que les données sont différentes. En effet, la ville de Mérignac s’est concentrée sur le millésime 2023. Dans les années à venir, il sera intéressant de suivre la mise à jour de ce jeu de données pour pouvoir suivre les effectifs dans le temps.
 
 D’autre part, à partir de ces jeux de données, il est possible de réaliser une carte pour situer les écoles et ceci pour les deux jeux publiés.
 
@@ -446,7 +445,7 @@ D’autre part, à partir de ces jeux de données, il est possible de réaliser 
 
 [Cartes des écoles du Haillan et de Mérignac](https://opendata.bordeaux-metropole.fr/map/carte_ecole_la_haillan_merignac/)
 
-Ces données peuvent être combinées à celles de la sectorisation scolaire. Ainsi, un usager qui souhaite s'installer sur un nouveau territoire peut s’informer de l’école dont ses enfants dépendraient sans avoir à solliciter l’administration. Le jeu de données sur la sectorisation scolaire de Mérignac est en cours de production. [Celui de la ville de Bordeaux](https://opendata.bordeaux-metropole.fr/explore/dataset/bor_cartescol/information/) était déjà en ligne avant le challenge.
+Ces données peuvent être combinées à celles de la sectorisation scolaire. Ainsi, un usager qui souhaite s'installer sur un nouveau territoire peut s’informer de l’école dont ses enfants dépendraient sans avoir à solliciter l’administration. Le jeu de données sur la sectorisation scolaire de Mérignac est en cours de production.
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
 
@@ -527,6 +526,27 @@ La collecte des informations a été initiée par un retraitement bureautique de
 
 
 <div class="sidenote">![](https://nextcloud.datactivist.coop/s/7Y4mMTPWpKDGmaR/preview){width=200px}</div>
+
+### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Délibérations
+
+La ville du Taillan Médoc a publié un jeu de données sur les [délibérations](https://opendata.bordeaux-metropole.fr/explore/dataset/let_deliberations_2023/information/). Ce jeu de données à la particularité de faire partie des jeux de données du socle commun des données locales (SCDL). Ce "label" identifie les données prioritaires et normalisées que doivent produire en priorité les collectivités locales.
+Selon le schéma à respecter, les datavisualisations ne sont pas simples à réaliser. En effet, les matières et sous-matières sont indiquées dans un même point de données.
+
+La visualisation en treemap proposée par Open Data Soft montre ses limites.
+
+<iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/let_deliberations_2023/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJ0cmVlbWFwIiwiZnVuYyI6IkNPVU5UIiwieUF4aXMiOiJidWRnZXRfYW5uZWUiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1BY2NlbnQifV0sInhBeGlzIjoiZGVsaWJfbWF0aWVyZV9ub20iLCJtYXhwb2ludHMiOjIwMCwidGltZXNjYWxlIjoiIiwic29ydCI6IiIsInNlcmllc0JyZWFrZG93biI6IiIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoibGV0X2RlbGliZXJhdGlvbnNfMjAyMyIsIm9wdGlvbnMiOnt9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+
+Ce cas montre qu'il peut être intéressant parfois de réaliser la visualisation à l'aide d'un autre outil et modifiant légèrement le jeu de données, en séparant les matières et sous-matières dans notre cas.
+La datavisualisation ci-dessous est un diagramme sunburst qui permet de visualiser les données hiérarchiques, représentées par des cercles concentriques. Le cercle central représente le nœud racine (ici les matières), la hiérarchie s'étendant vers l'extérieur à partir du centre (dans l'exemple les sous-matières). Un segment du cercle intérieur a une relation hiérarchique avec les segments du cercle extérieur qui se trouvent dans le rayon angulaire du segment parent.
+
+<iframe
+  src="https://koumoul.com/data-fair/app/diagramme-sunburst-12?embed=true"
+  width="100%" height="500px" style="background-color: transparent; border: none;"
+/></iframe>
+
+#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
+
+Ce jeu de données commence en mars 2023. Il sera intéressant de le mettre à jour après chaque conseil municipal. Le cercle central pourra évoluer pour ajouter les années afin de comparer dans les temps la répartition du nombre de délibérations par matière.
 
 
 ## Et après
