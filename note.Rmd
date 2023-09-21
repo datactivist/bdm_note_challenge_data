@@ -532,9 +532,11 @@ La collecte des informations a été initiée par un retraitement bureautique de
 La ville du Taillan Médoc a publié un jeu de données sur les [délibérations](https://opendata.bordeaux-metropole.fr/explore/dataset/let_deliberations_2023/information/). Ce jeu de données à la particularité de faire partie des jeux de données du socle commun des données locales (SCDL). Ce "label" identifie les données prioritaires et normalisées que doivent produire en priorité les collectivités locales.
 Selon le schéma à respecter, les datavisualisations ne sont pas simples à réaliser. En effet, les matières et sous-matières sont indiquées dans un même point de données.
 
-La visualisation en treemap proposée par Open Data Soft montre ses limites.
+La visualisation en treemap proposée par Open Data Soft montre ses limites. 
 
 <iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/let_deliberations_2023/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJ0cmVlbWFwIiwiZnVuYyI6IkNPVU5UIiwieUF4aXMiOiJidWRnZXRfYW5uZWUiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1BY2NlbnQifV0sInhBeGlzIjoiZGVsaWJfbWF0aWVyZV9ub20iLCJtYXhwb2ludHMiOjIwMCwidGltZXNjYWxlIjoiIiwic29ydCI6IiIsInNlcmllc0JyZWFrZG93biI6IiIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoibGV0X2RlbGliZXJhdGlvbnNfMjAyMyIsIm9wdGlvbnMiOnt9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+
+[Lien des délibérations du Taillan Médoc](https://opendata.bordeaux-metropole.fr/explore/embed/dataset/let_deliberations_2023/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJ0cmVlbWFwIiwiZnVuYyI6IkNPVU5UIiwieUF4aXMiOiJidWRnZXRfYW5uZWUiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1BY2NlbnQifV0sInhBeGlzIjoiZGVsaWJfbWF0aWVyZV9ub20iLCJtYXhwb2ludHMiOjIwMCwidGltZXNjYWxlIjoiIiwic29ydCI6IiIsInNlcmllc0JyZWFrZG93biI6IiIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoibGV0X2RlbGliZXJhdGlvbnNfMjAyMyIsIm9wdGlvbnMiOnt9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D)
 
 Ce cas montre qu'il peut être intéressant parfois de réaliser la visualisation à l'aide d'un autre outil et modifiant légèrement le jeu de données, en séparant les matières et sous-matières dans notre cas.
 La datavisualisation ci-dessous est un diagramme sunburst qui permet de visualiser les données hiérarchiques, représentées par des cercles concentriques. Le cercle central représente le nœud racine (ici les matières), la hiérarchie s'étendant vers l'extérieur à partir du centre (dans l'exemple les sous-matières). Un segment du cercle intérieur a une relation hiérarchique avec les segments du cercle extérieur qui se trouvent dans le rayon angulaire du segment parent.
@@ -543,10 +545,14 @@ La datavisualisation ci-dessous est un diagramme sunburst qui permet de visualis
   src="https://koumoul.com/data-fair/app/diagramme-sunburst-12?embed=true"
   width="100%" height="500px" style="background-color: transparent; border: none;"
 /></iframe>
+[Lien de la datavisualisation en sunburst](https://koumoul.com/data-fair/app/diagramme-sunburst-12?key=FP0QKDrIz5UDxAkHH3qvC )
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
 
-Ce jeu de données commence en mars 2023. Il sera intéressant de le mettre à jour après chaque conseil municipal. Le cercle central pourra évoluer pour ajouter les années afin de comparer dans les temps la répartition du nombre de délibérations par matière.
+Le jeu de données du Taillan Médoc commence en mars 2023. Il sera intéressant de le mettre à jour après chaque conseil municipal. Le cercle central pourra évoluer pour ajouter les années afin de comparer dans les temps la répartition du nombre de délibérations par matière.
+Voici l'exemple de la commune de Lys Saint Georges.
+
+[Lien de la réutilisation](https://www.data.gouv.fr/fr/reuses/repartition-des-thematiques-des-deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-sur-la-periode-2018-2022/)
 
 
 ## Et après
