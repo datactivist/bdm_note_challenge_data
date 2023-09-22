@@ -421,7 +421,7 @@ Si l’on recherche sur le portail, on remarque que deux autres villes ont publi
 
 Bordeaux Métropole, avec l'A'Urba, a recensé les points d’eau potable mais aussi tous les équipements et espaces pour se rafraîchir lors de canicules. On peut voir sur la capture ci-dessous les  lieux et équipements naturellement frais (certains parcs et jardins, etc.), des lieux rafraîchis (certains centres commerciaux, musées, bibliothèques, etc.) ou rafraîchissants (les piscines, les jeux d’eau). Cette visualisation montre l’intérêt immédiat de l’ouverture de ces données pour les populations à risque lors des canicules.
 
-![](images/Img3-ilots-de-fraicheur-seineouest.jpg)
+![](images/Espaces-fraicheur-Bdm.jpg)
 
 [Lien vers la carte interactive](https://www.bordeaux-metropole.fr/a-votre-service/services-aux-particuliers/environnement-sante/espaces-fraicheur)
 
