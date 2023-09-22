@@ -419,13 +419,15 @@ Si l’on recherche sur le portail, on remarque que deux autres villes ont publi
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
 
-Certaines collectivités ont recensé les points d’eau potable mais aussi tous les équipements et espaces pour se rafraîchir lors de canicules. On peut voir sur la capture ci-dessous les lieux d’activités nautiques, les bassins d'ornement, les points d’eau potable, les brumisateurs, les fontaines d’ornement, les piscines mais aussi les locaux qui peuvent accueillir les personnes vulnérables en cas de très fortes chaleurs sur plusieurs jours ou encore les forêts, l’hydrographie ainsi que les parcs, jardins et squares sur le territoire de Paris Seine Ouest.
+Bordeaux Métropole, avec l'A'Urba, a recensé les points d’eau potable mais aussi tous les équipements et espaces pour se rafraîchir lors de canicules. On peut voir sur la capture ci-dessous les  lieux et équipements naturellement frais (certains parcs et jardins, etc.), des lieux rafraîchis (certains centres commerciaux, musées, bibliothèques, etc.) ou rafraîchissants (les piscines, les jeux d’eau). Cette visualisation montre l’intérêt immédiat de l’ouverture de ces données pour les populations à risque lors des canicules.
 
 ![](images/Img3-ilots-de-fraicheur-seineouest.jpg)
 
-[Lien vers la carte interactive](https://atlas-sig.seineouest.fr/portal/apps/webappviewer/index.html?id=27e3bb4febb448db836039f995f3d067)
+[Lien vers la carte interactive](https://www.bordeaux-metropole.fr/a-votre-service/services-aux-particuliers/environnement-sante/espaces-fraicheur)
 
-Cet exemple montre l’intérêt immédiat de l’ouverture de ces données pour les populations à risque lors des canicules.
+On remarque donc que les données existent déjà, ici grâce à l'agence d'urbanisme A'Urba. Il serait donc fort intéressant de les publier en open data afin de les mettre à disposition des communes et des usagers.
+Si on regarde précisément, on peut aussi remarquer des différences entre les données de Mérignac et celles d'A'Urba. 
+Ce que l'on peut retenir ici est qu'il ne faut pas sous estimer l'apport de discuter avec les directions métiers et les partenaires pour obtenir, comparer et améliorer ses données.
  
 
 
@@ -461,7 +463,19 @@ La ville de Talence a publié la [liste des associations](https://opendata.borde
 
 <iframe frameborder="0" width="800" height="600" src="https://opendata.bordeaux-metropole.fr/map/embed/associations-talence/?&static=false&scrollWheelZoom=false"></iframe> 
 
-Le jeu de données ne propose pas de catégorisation des associations alors que l’annuaire des associations du site de la ville en propose une : 
+Si l’on recherche sur le portail, on remarque que la ville de Bordeaux a aussi publié la [liste des associations](https://opendata.bordeaux-metropole.fr/explore/dataset/bor_associations/) ainsi que les [lieux d'activités](https://opendata.bordeaux-metropole.fr/explore/dataset/bor_associations_lieux_activite) de chacune d'elles avec des filtres possibles sur la nature de l'activité, le quartier et bien entendu l'association qui anime l'activité.
+
+La visualisation ci-dessous illustre donc les lieux d'activités de Bordeaux.
+
+<iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/bor_associations_lieux_activite/map/?location=13,44.83567,-0.60777&basemap=jawg.streets&static=false&datasetcard=false&scrollWheelZoom=false" width="800" height="600" frameborder="0"></iframe>
+
+[Lien de la visualisation des lieux d'activités de Bordeaux](https://opendata.bordeaux-metropole.fr/map/lieux_dactivites_des_associations )
+
+
+
+#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
+
+Le jeu de données de Talence ne propose pas de catégorisation des associations alors que l’annuaire des associations du site de la ville en propose une : 
 
 * Action sociale & solidarité
 * Autres
@@ -472,7 +486,7 @@ Le jeu de données ne propose pas de catégorisation des associations alors que 
 * Seniors
 * Sport
 
-Pour le moment, on ne peut donc pas filtrer uniquement les associations sportives ou culturelles par exemple. D’autres collectivités le font, comme ce jeu de données de la [ville d’Angers](https://www.data.gouv.fr/ods/preview/data.angers.fr/annuaire_asso_angers), de plus la ville de Bordeaux dispose d’un site dédié à ces associations : [https://assos.bordeaux.fr](https://assos.bordeaux.fr). Afin de pouvoir faire une carte des associations de l’ensemble du territoire de Bordeaux Métropole, il est plus opportun de préconiser d’utiliser la catégorisation de la ville de Bordeaux qui est : 
+Par exemple, pour le moment, il n'est pas possible de filtrer uniquement les associations sportives ou culturelles. D’autres collectivités le font. La ville de Bordeaux le propose de façon large dans le champ "activite_libelle" mais avec près de 100 valeurs possibles et elle dispose aussi d’un site dédié aux associations : [https://assos.bordeaux.fr](https://assos.bordeaux.fr). Ce site propose une autre catégorisation :
 
 * Vivre ensemble, vie quotidienne
 * Culture
@@ -486,24 +500,18 @@ Pour le moment, on ne peut donc pas filtrer uniquement les associations sportive
 * Economie
 * Emploi, insertion professionnelle, formation
 
-![](images/asso-talence-categories.jpg)
+Le premier enjeu serait donc de réaliser un travail de standardisation de la catégorisation des activités des associations pour que toutes les villes de la métropole puisse l'utiliser et que les jeux de données ainsi produits puissent être comparés.
 
-Cela permet de visualiser sur la carte les différents types d’associations, de faire des recherches et de filtrer selon ses besoins.
-Commentaire à effacer : JDD réalisé par Sarah pour la catégorisation, à valider avec Tristan pour voir si mise en ligne en l'état possible. Image car la carte refuse de s'enregistrer sur Open Data Soft.
-
-#### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
-
-La collecte des données auprès des associations peut être fastidieuse. D’autre part, lorsqu’un usager recherche une association, c’est pour faire une activité. La liste n’est donc que la porte d’entrée pour obtenir les informations requises : activités proposées, tranche d’âge, horaires, disponibilités, tarifs…
+Le second enjeu est de donner la possibilité aux associations d'être actrices dans la production des données, données qui peuvent être fastidieuses à obtenir et qui se doivent d'être particulièrement à jour. En effet, lorsqu’un usager recherche une association, c’est pour faire une activité. La liste n’est donc que la porte d’entrée pour obtenir les informations requises : activités proposées, tranche d’âge, horaires, disponibilités, tarifs…
 
 Pour offrir un service supplémentaire à leurs habitants, quelques villes ont fait le choix de donner la main aux associations pour remplir les données les concernant. Cela permet de mettre à disposition l’ensemble des informations nécessaire à la recherche d’une activité, le tout avec un système de recherche facilité.
 
 Exemples : 
 
-
-
 * [Boulogne Billancourt](https://boulognebillancourt.assolib.fr)
 * [Fosses](https://ville-fosses95.assolib.fr)
 * [Issy les Moulineaux](https://issy.assolib.fr)
+* [Bordeaux](https://assos.bordeaux.fr/user/login)
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Réservation des salles municipales
 
@@ -529,28 +537,30 @@ La collecte des informations a été initiée par un retraitement bureautique de
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Délibérations
 
-La ville du Taillan Médoc a publié un jeu de données sur les [délibérations](https://opendata.bordeaux-metropole.fr/explore/dataset/let_deliberations_2023/information/). Ce jeu de données à la particularité de faire partie des jeux de données du socle commun des données locales (SCDL). Ce "label" identifie les données prioritaires et normalisées que doivent produire en priorité les collectivités locales.
+La ville du Taillan Médoc a publié un jeu de données sur les [délibérations](https://opendata.bordeaux-metropole.fr/explore/dataset/let_deliberations_2023/information/). Ce jeu de données à la particularité de faire partie des jeux de données du socle commun des données locales (SCDL) produit par Open Data France. Ce "label" identifie les données prioritaires et normalisées que doivent produire en priorité les collectivités locales.
 Selon le schéma à respecter, les datavisualisations ne sont pas simples à réaliser. En effet, les matières et sous-matières sont indiquées dans un même point de données.
 
-La visualisation en treemap proposée par Open Data Soft montre ses limites. 
+La visualisation en treemap avec les données brutes montre ses limites. Les matières ne sont pas groupées, ce qui limite la compréhension. Sur l'exemple, vous pouvez voir plusieurs fois "finances..." pour finances locales avec ensuite trois sous-matières différentes, on ne visualise pas du tout l'importance du nombre de délibérations sur cette matière. 
 
 <iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/let_deliberations_2023/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJ0cmVlbWFwIiwiZnVuYyI6IkNPVU5UIiwieUF4aXMiOiJidWRnZXRfYW5uZWUiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1BY2NlbnQifV0sInhBeGlzIjoiZGVsaWJfbWF0aWVyZV9ub20iLCJtYXhwb2ludHMiOjIwMCwidGltZXNjYWxlIjoiIiwic29ydCI6IiIsInNlcmllc0JyZWFrZG93biI6IiIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoibGV0X2RlbGliZXJhdGlvbnNfMjAyMyIsIm9wdGlvbnMiOnt9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 [Lien des délibérations du Taillan Médoc](https://opendata.bordeaux-metropole.fr/explore/embed/dataset/let_deliberations_2023/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJ0cmVlbWFwIiwiZnVuYyI6IkNPVU5UIiwieUF4aXMiOiJidWRnZXRfYW5uZWUiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1BY2NlbnQifV0sInhBeGlzIjoiZGVsaWJfbWF0aWVyZV9ub20iLCJtYXhwb2ludHMiOjIwMCwidGltZXNjYWxlIjoiIiwic29ydCI6IiIsInNlcmllc0JyZWFrZG93biI6IiIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoibGV0X2RlbGliZXJhdGlvbnNfMjAyMyIsIm9wdGlvbnMiOnt9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D)
 
-Ce cas montre qu'il peut être intéressant parfois de réaliser la visualisation à l'aide d'un autre outil et modifiant légèrement le jeu de données, en séparant les matières et sous-matières dans notre cas.
+Si on modifie le jeu de données en séparant matières et sous matières, la visualisation est bien plus facile à lire. D'autre part, parfois, il peut être intéressant de réaliser la visualisation à l'aide d'un autre outil qu'Open Data Soft.
 La datavisualisation ci-dessous est un diagramme sunburst qui permet de visualiser les données hiérarchiques, représentées par des cercles concentriques. Le cercle central représente le nœud racine (ici les matières), la hiérarchie s'étendant vers l'extérieur à partir du centre (dans l'exemple les sous-matières). Un segment du cercle intérieur a une relation hiérarchique avec les segments du cercle extérieur qui se trouvent dans le rayon angulaire du segment parent.
 
 <iframe
   src="https://koumoul.com/data-fair/app/diagramme-sunburst-12?embed=true"
   width="100%" height="500px" style="background-color: transparent; border: none;"
 /></iframe>
+
 [Lien de la datavisualisation en sunburst](https://koumoul.com/data-fair/app/diagramme-sunburst-12?key=FP0QKDrIz5UDxAkHH3qvC )
 
 #### ![](https://nextcloud.datactivist.coop/s/ZJeSrykwxNCMLX2/preview){width=25px} Que faire après le challenge ?
 
 Le jeu de données du Taillan Médoc commence en mars 2023. Il sera intéressant de le mettre à jour après chaque conseil municipal. Le cercle central pourra évoluer pour ajouter les années afin de comparer dans les temps la répartition du nombre de délibérations par matière.
 Voici l'exemple de la commune de Lys Saint Georges.
+
 ![](images/Sunburst-deliberations-lys-saint-georges.jpg)
 
 [Lien de la réutilisation](https://www.data.gouv.fr/fr/reuses/repartition-des-thematiques-des-deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-sur-la-periode-2018-2022/)
