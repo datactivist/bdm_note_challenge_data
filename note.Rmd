@@ -12,6 +12,8 @@ output:
         in_header: header.html
         after_body: footer.html
       template: middle_toc.html
+      pandoc_args:
+        - --lua-filter=links.lua
 ---
 
 
