@@ -472,7 +472,7 @@ Si l’on recherche sur le portail, on remarque que la ville de Bordeaux a aussi
 
 La visualisation ci-dessous illustre donc les lieux d'activités de Bordeaux.
 
-<iframe src="https://opendata.bordeaux-metropole.fr/explore/embed/dataset/bor_associations_lieux_activite/map/?location=13,44.83567,-0.60777&basemap=jawg.streets&static=false&datasetcard=false&scrollWheelZoom=false" width="800" height="600" frameborder="0"></iframe>
+<iframe src="https://opendata.bordeaux-metropole.fr/map/lieux_dactivites_des_associations/?location=13,44.85696,-0.58176&basemap=jawg.streets" width="800" height="600" frameborder="0"></iframe>
 
 [Lien de la visualisation des lieux d'activités de Bordeaux](https://opendata.bordeaux-metropole.fr/map/lieux_dactivites_des_associations )
 
@@ -520,7 +520,7 @@ Exemples :
 
 ### ![](https://nextcloud.datactivist.coop/s/8tDcojgDEk8A3HN/preview){width=38px} Réservation des salles municipales
 
-La ville de Bordeaux a publié les réservations de salles municipales. La direction pourvoyeuse des informations est la direction vie associative enfance et jeunesse de la mairie de Bordeaux. Chaque enregistrement mentionne l'équipement public, la salle, l'usager, l'heure de début, l'heure de fin, la durée de la réservation. Les enregistrements sont enrichis d'informations caractérisant les locaux concernés (horaires d'ouverture, superficies, capacités...).
+La ville de Bordeaux a publié les [réservations de salles municipales](https://opendata.bordeaux-metropole.fr/explore/dataset/bor_reservations_salles_municipales_donnees/information/). La direction pourvoyeuse des informations est la direction vie associative enfance et jeunesse de la mairie de Bordeaux. Chaque enregistrement mentionne l'équipement public, la salle, l'usager, l'heure de début, l'heure de fin, la durée de la réservation. Les enregistrements sont enrichis d'informations caractérisant les locaux concernés (horaires d'ouverture, superficies, capacités...).
 
 La ventilation des informations par quartier et équipement public peut permettre aux réutilisateurs de croiser les données de ce jeu avec celles d'autres jeux dans lesquels ces 2 notions d'équipement public et de quartier sont présentes.
 
