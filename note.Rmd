@@ -393,6 +393,8 @@ L’étape du dessin est particulièrement révélatrice des réflexions à avoi
 
 ## Résultats
 
+<iframe src=https://bdx.sharepoint.com/sites/Team-COMACC/_layouts/15/embed.aspx?UniqueId=ceb28195-0be7-4497-9d10-1cf9f08204a9&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Vidéo OPEN DATA - Version finale.mp4"></iframe>
+
 
 ![](images/chiffres-cles.jpg)
 
@@ -472,7 +474,7 @@ Si l’on recherche sur le portail, on remarque que la ville de Bordeaux a aussi
 
 La visualisation ci-dessous illustre donc les lieux d'activités de Bordeaux.
 
-<iframe src="https://opendata.bordeaux-metropole.fr/map/lieux_dactivites_des_associations/?location=13,44.85696,-0.58176&basemap=jawg.streets" width="800" height="600" frameborder="0"></iframe>
+<iframe frameborder="0" width="800" height="600" src=https://opendata.bordeaux-metropole.fr/map/embed/lieux_dactivites_des_associations/?&static=false&scrollWheelZoom=false></iframe>
 
 [Lien de la visualisation des lieux d'activités de Bordeaux](https://opendata.bordeaux-metropole.fr/map/lieux_dactivites_des_associations )
 
