@@ -393,7 +393,10 @@ L’étape du dessin est particulièrement révélatrice des réflexions à avoi
 
 ## Résultats
 
-<iframe src=https://bdx.sharepoint.com/sites/Team-COMACC/_layouts/15/embed.aspx?UniqueId=ceb28195-0be7-4497-9d10-1cf9f08204a9&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Vidéo OPEN DATA - Version finale.mp4"></iframe>
+<div align="center">
+   <iframe width="560" height="315" src="https://bdx.sharepoint.com/sites/Team-COMACC/_layouts/15/embed.aspx?UniqueId=ceb28195-0be7-4497-9d10-1cf9f08204a9&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create"  width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Vidéo OPEN DATA - Version finale.mp4">
+   </iframe>
+</div>
 
 
 ![](images/chiffres-cles.jpg)
