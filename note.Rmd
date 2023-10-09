@@ -12,8 +12,6 @@ output:
         in_header: header.html
         after_body: footer.html
       template: middle_toc.html
-      pandoc_args:
-        - --lua-filter=links.lua
 ---
 
 
@@ -56,8 +54,8 @@ htmltools::img(src = "https://nextcloud.datactivist.coop/s/kWMDDLHBXHXXgSE/previ
 
 # Polices Nexa et Trade Gothic
 library(showtext)
-font_add("Nexa", regular = "Nexa Bold.otf")
-font_add("Trade Gothic", regular = "Trade Gothic.otf")
+font_add("Nexa", regular = "./fonts/Nexa Bold.otf")
+font_add("Trade Gothic", regular = "./fonts/Trade Gothic.otf")
 showtext_auto()
 ```
 
